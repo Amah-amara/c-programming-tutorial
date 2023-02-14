@@ -22,11 +22,11 @@ int i;
 
         if (i != 'q' && i != 'e');
 
-        {
+        
 
             printf("\nthe letter %c", i);
 
-        }
+        
 
     }
 
